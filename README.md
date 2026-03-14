@@ -96,7 +96,7 @@ cd VJTI-M-Indicator-Hackathon
    ```
 2. **Install dependencies**:
    ```bash
-   pnpm install
+   npm install
    ```
 3. **Run the development server**:
    ```bash
